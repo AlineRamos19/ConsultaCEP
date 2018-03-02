@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Consulta CEP</string>
+    <string name="aviso_informar_cep">Favor informar um CEP</string>
+</resources>
